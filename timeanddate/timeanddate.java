@@ -1,6 +1,6 @@
 package timeanddate;
 
-import java.util.Date;
+    import java.util.Date; 
 
 public class timeanddate {
     public static void main(String[] args) {
